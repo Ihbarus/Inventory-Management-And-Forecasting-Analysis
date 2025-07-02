@@ -42,6 +42,5 @@ It does not contain any proprietary or real company data from Canon or any other
 
 🙋 About Me
 
-Surabhi
-Master’s in Operational Research | Passionate about Analytics, Forecasting & Supply Chain
+Surabhi | Master’s in Operational Research | Passionate about Analytics, Forecasting & Supply Chain
 https://www.linkedin.com/in/surabhi-anil/
