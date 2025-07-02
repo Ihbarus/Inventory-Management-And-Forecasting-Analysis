@@ -34,6 +34,16 @@ Visualization	==> Charts and dashboards in Excel
 4. Visual dashboards and charts were created in Excel to support management decision-making
 
 
+📁 Project Structure (Summary)
+
+├── ABC_Analysis.xlsx
+├── Decomposition.xlsx
+├── Demand_dataset.xlsx
+├── Seasonal_Forecasting_SPSS_Outputs.spv
+├── Procurement.xlsx
+└── README.md
+
+
 📄 Disclaimer
 
 ⚠️ Important: All data used in this project is manually generated for academic and demonstration purposes.
